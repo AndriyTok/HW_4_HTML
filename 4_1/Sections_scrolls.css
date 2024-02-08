@@ -59,7 +59,8 @@ header{
 }
 #second_page{
     flex-direction: column;
-    background-color: rgb(255, 255, 255, 0.024243);
+    background-color: rgb(255, 255, 255, 0.2);
+    background-image: url('image 4_2.png');
 }
 
 #second_page p{
@@ -73,6 +74,8 @@ header{
 }
 #third_page{
     justify-content: center;
+    background-color: rgb(255, 255, 255, 0.024243);
+    background-image: url('image 4_2.png');
 }
 main{
     width: 25vw;
