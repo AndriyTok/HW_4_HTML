@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d1a9df8-fde4-4a2f-8056-9b4b850462b6" name="Changes" comment="Виконав 4_1, не вийшло прозор. фону 2-3ст.">
-      <change afterPath="$PROJECT_DIR$/4_1/image 4_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_1/Sections_scrolls.css" beforeDir="false" afterPath="$PROJECT_DIR$/4_1/Sections_scrolls.css" afterDir="false" />
+    <list default="true" id="5d1a9df8-fde4-4a2f-8056-9b4b850462b6" name="Changes" comment="Встановив інше bg-img для 2 та 3 секції">
+      <change afterPath="$PROJECT_DIR$/4_2/Instagram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_2/icons8-facebook-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_2/instagram_mockup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_2/instagram_mockup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +45,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -63,6 +67,9 @@
       <workItem from="1707332570906" duration="94000" />
       <workItem from="1707339179032" duration="7917000" />
       <workItem from="1707399794074" duration="4941000" />
+      <workItem from="1707404757708" duration="709000" />
+      <workItem from="1707415566912" duration="681000" />
+      <workItem from="1707465264471" duration="6862000" />
     </task>
     <task id="LOCAL-00001" summary="Виконав 4_1, не вийшло прозор. фону 2-3ст.">
       <option name="closed" value="true" />
@@ -72,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707404471264</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Встановив інше bg-img для 2 та 3 секції">
+      <option name="closed" value="true" />
+      <created>1707404858414</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707404858414</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +96,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Виконав 4_1, не вийшло прозор. фону 2-3ст." />
-    <option name="LAST_COMMIT_MESSAGE" value="Виконав 4_1, не вийшло прозор. фону 2-3ст." />
+    <MESSAGE value="Встановив інше bg-img для 2 та 3 секції" />
+    <option name="LAST_COMMIT_MESSAGE" value="Встановив інше bg-img для 2 та 3 секції" />
   </component>
 </project>
